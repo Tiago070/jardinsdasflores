@@ -1,17 +1,5 @@
 # jardinsdasflores
 
-Site: https://tiago070.github.io/jardinsdasflores/
+Site: jardinsdasflores.com.br 
+Design Figma: https://www.figma.com/design/WyU4WOgMyjJXJsup1XgmNM/siteFloricultura?node-id=2064-2&t=MsawpodQDgVGlGLg-1 
 
-opcoes menu escuro e vira claro
-
-frase com mais destaque, centralizada
-
-efeito de subir nas galerias
-
-melhorar caixinhas do sobre
-
-conferir horario de funcionamento
-
-ajustar imagens no rodape
-
-inserir nome infos da empresa no rodape
